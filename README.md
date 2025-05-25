@@ -112,7 +112,7 @@ pip install streamlit pandas matplotlib seaborn
 
 ## 🤝 **Contributing**
 
-Pull requests are welcome! If you'd like to improve the dataset or UI, feel free to fork the repo and open a PR.
+Pull requests are welcome! If you'd like to improve the dataset or UI, feel free to fork the repo and open a PR !
 
 ---
 
