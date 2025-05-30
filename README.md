@@ -73,6 +73,8 @@ Includes comprehensive placement data across departments:
 | Vikram Menon | 2021 | AIML       | 7.1     | Yes     |
 | ...          | ...  | ...        | ...     | ...     |
 
+You can upload your own dataset too for this !
+
 ---
 
 ## 🚀 **How to Run**
