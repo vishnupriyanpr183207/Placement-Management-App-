@@ -73,6 +73,8 @@ Includes comprehensive placement data across departments:
 | Vikram Menon | 2021 | AIML       | 7.1     | Yes     |
 | ...          | ...  | ...        | ...     | ...     |
 
+You can upload your own dataset too for this !
+
 ---
 
 ## 🚀 **How to Run**
@@ -112,7 +114,7 @@ pip install streamlit pandas matplotlib seaborn
 
 ## 🤝 **Contributing**
 
-Pull requests are welcome! If you'd like to improve the dataset or UI, feel free to fork the repo and open a PR.
+Pull requests are welcome! If you'd like to improve the dataset or UI, feel free to fork the repo and open a PR !
 
 ---
 
